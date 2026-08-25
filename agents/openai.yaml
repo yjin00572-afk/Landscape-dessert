@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dessert Cutout From Image"
+  short_description: "Turn a source image into a fine-dining dessert cutout"
+  default_prompt: "Analyze my uploaded image, extract its main elements and dominant color, then generate a high-end dessert cutout centered on a matching solid background."
