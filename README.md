@@ -77,6 +77,7 @@ Use $dessert-cutout-from-image 直接根据这张图生成高端甜点图。
 dessert-cutout-from-image/
 ├─ SKILL.md
 ├─ README.md
+├─ EXAMPLES.md
 ├─ LICENSE
 ├─ NOTICE
 └─ agents/
