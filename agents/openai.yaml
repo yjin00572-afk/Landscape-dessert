@@ -10,8 +10,7 @@ interface:
     density to the source image, maintain refined plating, and avoid isolated props
     or toy-like models. Read the bundled target-style guide and use the best matching
     style-reference image when supported.
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+
 policy:
   products:
   - chatgpt
