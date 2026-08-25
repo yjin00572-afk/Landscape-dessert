@@ -1,4 +1,4 @@
 interface:
-  display_name: "Dessert Cutout From Image"
-  short_description: "Transform source images into refined fine-dining desserts"
-  default_prompt: "Use $dessert-cutout-from-image to analyze my uploaded image, preserve its main subject, dominant palette, material cues, geometry, mood, and signature details, then generate a high-end source-faithful fine-dining dessert with realistic edible materials and refined plating."
+  display_name: "Edible Miniature Scene Dessert"
+  short_description: "Turn images into luxury edible miniature dessert worlds"
+  default_prompt: "Use $dessert-cutout-from-image to transform my uploaded image into a premium edible miniature scene presented as a high-end plated dessert or sculptural entremet. Preserve the original subject, environmental context, spatial relationships, color palette, lighting, and recognizable secondary details. Reconstruct the complete scene using realistic mousse, mirror glaze, translucent gel, chocolate, sugar work, tuile, crumble, and other believable pastry materials. Adapt scene density to the source image, maintain refined plating, and avoid reducing the image to a single isolated object or a toy-like model."
