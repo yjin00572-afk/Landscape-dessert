@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dessert Cutout From Image"
+  short_description: "Transform source images into refined fine-dining desserts"
+  default_prompt: "Use $dessert-cutout-from-image to analyze my uploaded image, preserve its main subject, dominant palette, material cues, geometry, mood, and signature details, then generate a high-end source-faithful fine-dining dessert with realistic edible materials and refined plating."
