@@ -24,7 +24,7 @@ C:\Users\LENOVO\.codex\skills\neo-chinoiserie-stamp\
 ### 1. 直接调用 skill
 
 ```text
-Use $dessert-cutout-from-image on this image.
+使用 $dessert-cutout-from-image 将我上传的图片重新设计成一款高级创意甜品。
 ```
 
 ### 2. 先分析，再生成
